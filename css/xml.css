@@ -1,7 +1,7 @@
 Kino{background-image:url(http://www.hasrulman.com.tr/images2/75/fon_footer.jpg);}
 Post{display:block;
 	  margin:20px auto;
-	  background-color:#FF4500;
+	  background-color:blue;
 	  width:900px;
 	  height:330px;
 	 border:1px solid #000; 
@@ -22,7 +22,7 @@ mov{display:block;
 	  margin:5px 5px 5px 5px; 
 	  border:1px solid #222;
 	  border-radius:8px;
-	  background-color:#333;
+	  background-color:green;
 	   box-shadow: inset -4px -3px 5px 0px rgba(0,0,0,0.75); }
 name,time,ganr,baks{display:block;
 				margin:25px auto;
@@ -33,16 +33,16 @@ name,time,ganr,baks{display:block;
 
 name{width:120px; 
 	  color:#fff;
-	  background-color:#EE4000;
-	  border:1px solid #EE4000;
+	  background-color:blue;
+	  border:1px solid blue;
 	  border-radius:3px;
 	 
 	  text-transform:uppercase;}
 time{font-size:20px;
 	 color:#fff;
 	 font-weight:bold;}
-baks{color:#FF4500;
+baks{color:blue;
 font-size:15px;}
-ganr {color:#FF4500;
+ganr {color:blue;
 font-size:15px;}
 
