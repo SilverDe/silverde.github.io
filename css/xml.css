@@ -20,10 +20,7 @@ mov{display:block;
 	  height:200px;
 	  float:left;
 	  margin:5px 5px 5px 5px; 
-	  border:1px solid #222;
-	  border-radius:8px;
-	  background-color:green;
-	   box-shadow: inset -4px -3px 5px 0px rgba(0,0,0,0.75); }
+	   }
 name,time,ganr,baks{display:block;
 				margin:25px auto;
 				text-align:center;
