@@ -24,7 +24,7 @@ mov{display:block;
 	  border-radius:8px;
 	  background-color:#333;
 	   box-shadow: inset -4px -3px 5px 0px rgba(0,0,0,0.75); }
-name,time,ganr,${display:block;
+name,time,ganr,baks{display:block;
 				margin:25px auto;
 				text-align:center;
 				}
@@ -41,7 +41,7 @@ name{width:120px;
 time{font-size:20px;
 	 color:#fff;
 	 font-weight:bold;}
-${color:#FF4500;
+baks{color:#FF4500;
 font-size:15px;}
 ganr {color:#FF4500;
 font-size:15px;}
