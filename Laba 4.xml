@@ -1,34 +1,35 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Kino> 
 	<Post>
+		
 		<mov>
 			<name> Аисты  </name>
 			<time> 12.00 </time>
-			<$> 50.00</$>
+			<baks> 50.00</baks>
 			<ganr> Мультфильм  </ganr>
 		</mov>
 		<mov>
 			<name> Мумия  </name>
 			<time> 15.00 </time>
-			<$>45.00</$>
+			<baks>45.00</baks>
 			<ganr> Фэнтези, Боевик  </ganr>
 		</mov>
 		<mov>
 			<name> Игры разума  </name>
 			<time> 17.00 </time>
-			<$>30</$>
+			<baks>30</baks>
 			<ganre> Боевик,триллер  </ganr>
 		</mov>
 		<mov>
 			<name> Она мужчина  </name>
 			<time> 20.00 </time>
-			<$>55.00</$>
+			<baks>55.00</baks>
 			<ganr> Комедия  </ganr>
 		</mov>
 		<mov>
 			<name> Анабель </name>
 			<time> 23.00 </time>
-			<$>60.00</$>
+			<baks>60.00</baks>
 			<ganr> Ужасы  </ganr>
 		</mov>
 	</Post>
